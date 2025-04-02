@@ -1,1 +1,3 @@
-# multimodal-sentiment-analysis-system
+# Development of a Multimodal Sentiment Detection System in Video Content using Deep Learning Techniques
+
+This README file is not complete yet. It will be updated soon...
